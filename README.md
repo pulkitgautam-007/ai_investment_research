@@ -161,5 +161,5 @@ Tested end-to-end on two companies (Infosys, Apple). Known issues, to be fixed i
 
 ## About
 
-Built as a learning project by [Your Name], drawing on a background in credit analysis
+Built as a learning project by Pulkit Gautam, drawing on a background in credit analysis
 and consulting. Feedback and suggestions are welcome via GitHub Issues.
