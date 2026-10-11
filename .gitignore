@@ -1,0 +1,23 @@
+# Secrets - NEVER upload
+.env
+
+# Virtual environment (others rebuild it from requirements.txt)
+venv/
+
+# Python auto-generated cache
+__pycache__/
+*.pyc
+
+# Local database and generated reports (keep the folders, not the contents)
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Test fixtures - kept locally only
+*_fixture_*.json
+save_*_fixture*.py
+source_verification_infosys_output.json
+
+# Editor settings
+.vscode/
